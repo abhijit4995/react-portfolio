@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abhijit4995/react-portfolio/static/css/main.38b363e7.css",
-    "main.js": "/abhijit4995/react-portfolio/static/js/main.54775524.js",
-    "static/js/453.bb257cf5.chunk.js": "/abhijit4995/react-portfolio/static/js/453.bb257cf5.chunk.js",
-    "static/media/abhijit.jpg": "/abhijit4995/react-portfolio/static/media/abhijit.01b6b6a96ffee763335f.jpg",
-    "index.html": "/abhijit4995/react-portfolio/index.html",
-    "main.38b363e7.css.map": "/abhijit4995/react-portfolio/static/css/main.38b363e7.css.map",
-    "main.54775524.js.map": "/abhijit4995/react-portfolio/static/js/main.54775524.js.map",
-    "453.bb257cf5.chunk.js.map": "/abhijit4995/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.38b363e7.css",
+    "main.js": "/react-portfolio/static/js/main.c5175b3d.js",
+    "static/js/453.bb257cf5.chunk.js": "/react-portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/abhijit.jpg": "/react-portfolio/static/media/abhijit.01b6b6a96ffee763335f.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.38b363e7.css.map": "/react-portfolio/static/css/main.38b363e7.css.map",
+    "main.c5175b3d.js.map": "/react-portfolio/static/js/main.c5175b3d.js.map",
+    "453.bb257cf5.chunk.js.map": "/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38b363e7.css",
-    "static/js/main.54775524.js"
+    "static/js/main.c5175b3d.js"
   ]
 }
